@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamkingarsh
-- 👀 I’m interested in Front-End Web Development , Ui/Ux Designing, Graphic Designing
+- 👀 I’m interested in Front-End Web & Mobile App Development , 3D Web Development, Ui/Ux Designing, Graphic Designing
 - 🌱 I’m currently learning Back-End Development
 - 💞️ I’m looking to collaborate on Projects which will enhance my Front-End Web Development Skills
 - 📫 How to reach me:-
