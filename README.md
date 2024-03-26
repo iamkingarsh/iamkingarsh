@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>  
 <div align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamkingarsh&theme=dark&card_width=420" alt="iamkingarsh" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamkingarsh&theme=dark&card_width=430" alt="iamkingarsh" />
 </div>  
 
