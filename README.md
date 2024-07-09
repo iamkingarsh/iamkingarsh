@@ -15,6 +15,6 @@
 
 </div>  
 <div align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamkingarsh&theme=dark&card_width=421" alt="iamkingarsh" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamkingarsh&theme=dark&card_width=420" alt="iamkingarsh" />
 </div>  
 
