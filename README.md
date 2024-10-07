@@ -10,7 +10,7 @@
 
 <div align="left" >
 
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkingarsh&locale=en&hide_title=false&layout=compact&card_width=320&card_height=420&langs_count=12&theme=dark&hide_border=false&order=1"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkingarsh&locale=en&hide_title=false&layout=compact&card_width=320&card_height=421&langs_count=12&theme=dark&hide_border=false&order=1"/>
 
 
 </div>  
